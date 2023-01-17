@@ -1,0 +1,26 @@
+Create a database named cis224_midterm with an addresses table with the following :
+
+AddressNo (auto-increment, primary key)
+First (25 characters, not null)
+Last (30 characters, not null)
+Street (100 characters, not null)
+City (25 characters, not null)
+State (2 characters, not null)
+Zip (10 characters, not null)
+The ecpi_user should have access to the database.
+
+Add at least 2 records to the database, one including your name.
+
+Create a PHP web application that does the following:
+
+Displays a table with all fields in the database
+Provides the ability to Add new addresses
+Provides the ability to Update existing addresses
+Provides the ability to Delete existing addresses
+For your submission, take screen captures of the following and place them in a Word document:
+
+phpMyAdmin showing the updated database table and columns
+Demonstration of the application running, including:
+Successful addition of a record
+Successful update of a record
+Successful deletion of a record

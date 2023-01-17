@@ -1,0 +1,15 @@
+Create a database named cis224_wk4pa with a products table with the following :
+
+ProductNo (auto-increment, primary key)
+Name (50 characters, not null)
+Type (50 characters, not null)
+The ecpi_user should have access to the database.
+
+Add at least 5 records to the database.
+
+Create a PHP web application using the MVC architecture that displays a table with all fields in the database.
+
+For your submission, take screen captures of the following and place them in a Word document:
+
+phpMyAdmin showing the database table and columns
+Demonstration of the application running

@@ -1,0 +1,34 @@
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+-- Database: cis224_midterm
+CREATE DATABASE IF NOT EXISTS cis224_midterm DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE cis224_midterm;
+
+-- Table structure for table addresses
+DROP TABLE IF EXISTS addresses;
+CREATE TABLE addresses (
+  AddressNo int(11) NOT NULL,
+  First varchar(25) NOT NULL,
+  Last varchar(30) NOT NULL,
+  Street varchar(100) NOT NULL,
+  City varchar(25) NOT NULL,
+  State varchar(2) NOT NULL,
+  Zip varchar(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+
+-- Data for table addresses
+INSERT INTO addresses (AddressNo, First, Last, Street, City, State, Zip) VALUES
+(1, 'Bladorthin', 'Gandalf', 'Minas Tirith', 'Rivendell', 'WA', '88888'),
+(2, 'Jasmine', 'Harding', '123 Sesame street', 'Seattle', 'WA', '98218');
+
+-- Indexes for table addresses
+ALTER TABLE addresses
+  ADD PRIMARY KEY (AddressNo);
+
+-- AUTO_INCREMENT for table addresses
+ALTER TABLE addresses
+  MODIFY AddressNo int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+COMMIT;

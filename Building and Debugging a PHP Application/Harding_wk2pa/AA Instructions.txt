@@ -1,0 +1,24 @@
+You will create a PHP web application with the following properties:
+
+Project/folder name is LastName_wk2pa
+The web application consists of a single page titled "Your Name Wk 2 Performance Assessment"
+The web application has text entry fields for the following:
+Name
+Date of Birth
+Favorite Color
+Favorite Place To Visit
+Nickname
+The web application has a button to submit the information
+On submit, the following occurs:
+Fields with values are displayed below the submit button, including an appropriate label (e.g. "Your name is " + the value in Name field)
+Fields without values will display a message indicating the value wasn't entered (e.g. "You didn't enter your name") 
+Once the web application is functioning as desired, configure the application for debugging using XDebug, run the application in debug mode and take the following screen captures:
+
+Application running, stopped on a breakpoint (screen capture of VS Code showing the breakpoint and the execution stopped with local and super global variables visible)
+Remove the breakpoint and add an echo statement at an appropriate location and take screen captures of the following:
+The code where the echo statement was placed
+The application running with the echo statement not present
+The application running with the echo statement present
+Remove the echo statement and add a var_dump call at an appropriate location and take screen captures of the following:
+The code where the var_dump call was placed
+The application running with the var_dump results showing
