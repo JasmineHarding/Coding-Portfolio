@@ -1,0 +1,9 @@
+xProject Scenario Mission:
+
+In this Guided Practice assignment, you will assist with the redesign of the Pandasia Chocolates website. 
+
+You have already been provided with three pages from the website to start your work. 
+
+The content has already been written for you and you have been provided the necessary images and graphics, as well as color styles.
+
+The company would like for you to complete the project by designing the page layout using the CSS layout properties.

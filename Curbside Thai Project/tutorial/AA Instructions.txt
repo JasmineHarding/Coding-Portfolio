@@ -1,0 +1,13 @@
+Project Scenario Mission:
+
+  For this Guided Practice assignment you will need to assist with the development
+   of the food truck vendor's website called Curbside Thai.
+
+The owner would like to add the food truck's 
+  daily locations, menu, catering opportunities and contact information to the website. 
+
+Some of the information has already been provided to you and the 
+  owner would like for you to finish the job.
+
+To complete this task, you’ll learn how to write and edit HTML5 code 
+  and how to get your HTML files ready for display on the World Wide Web.

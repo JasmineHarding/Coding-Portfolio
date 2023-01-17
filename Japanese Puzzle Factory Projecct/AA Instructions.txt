@@ -1,0 +1,7 @@
+Rebecca and a few of her friends have begun work on a new website called
+ The Japanese Puzzle Factory where they plan to create and distribute Japanese-style puzzles.
+
+Eventually, the JPF website will include interactive programs to enable users to solve the puzzles online, 
+ but for now Rebecca is interested only in the design and layout of the pages.
+
+You have been asked to help by creating a draft version of the web page describing the Sudoku puzzle
