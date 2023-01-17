@@ -1,0 +1,6 @@
+For this Guided Practice assignment, you will be assisting with the redesign of the company website, Trusted Friends Daycare.
+
+ Many of their clients access the website from their mobile devices, therefore they are hoping to improve the website appearance on these devices
+  to include not just phones, but also tablets and desktop computers.   
+
+In addition, the site contains several pages that clients will need to print, so your design will need to meet the needs of printed media as well.

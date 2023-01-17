@@ -1,0 +1,8 @@
+In this Guided Practice assignment, you will be assisting in the development of the Tree and Book website. 
+
+Tree and Book is a social networking website for people interested in documenting their family histories, 
+creating online photo albums, and posting stories and information about members of their extended families.
+
+ The company would like your help in upgrading the site’s design. 
+
+They would like for you to use CSS styles to help add interesting visual effects to the website in order to give it more impact and visual interest.

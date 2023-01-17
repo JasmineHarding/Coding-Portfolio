@@ -1,0 +1,5 @@
+ Alison designed the original Tri and Succeed Sports website several years ago but she now feels that the site needs a makeover.\
+
+She wants a new design that uses color and interesting typography to create visual interest and impact. 
+
+She wants you to use CSS to help give the website a new look.
